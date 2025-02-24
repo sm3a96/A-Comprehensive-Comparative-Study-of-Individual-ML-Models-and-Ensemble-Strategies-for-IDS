@@ -7,6 +7,7 @@ With the increasing sophistication of cyber threats, Intrusion Detection Systems
 We propose a **flexible ensemble learning framework**, tested on two benchmark datasets—**RoEduNet-SIMARGL2021** and **CICIDS-2017**—to analyze the impact of different modeling strategies.  
 
 Our results reveal that **ensemble methods consistently outperform individual models**, with Decision Trees and Random Forest achieving **perfect classification (F1 = 1.0)** on RoEduNet-SIMARGL2021, while blending and bagging methods excel on CICIDS-2017 (F1 > 0.996). Additionally, **feature selection using Information Gain (IG) significantly reduced training time by up to 94% without sacrificing accuracy**.  
+![image](https://github.com/user-attachments/assets/792beea2-34ba-48bf-9273-dcef8b093ab4)
 
 ---
 

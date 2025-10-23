@@ -2,9 +2,9 @@
 
 ## Overview  
 
-With the increasing sophistication of cyber threats, Intrusion Detection Systems (IDS) play a critical role in safeguarding networks from attacks. This study explores **up to 14 individual and ensemble-based machine learning models**, rigorously evaluating their effectiveness in intrusion detection.  
+With the increasing sophistication of cyber threats, Intrusion Detection Systems (IDS) play a critical role in safeguarding networks from attacks. This study explores up to 14 individual and ensemble-based machine learning models, rigorously evaluating their effectiveness in intrusion detection.  
 
-We propose a **flexible ensemble learning framework, tested on two benchmark datasets—RoEduNet-SIMARGL2021 and CICIDS-2017—to analyze the impact of different modeling strategies.  
+We propose a flexible ensemble learning framework, tested on two benchmark datasets RoEduNet-SIMARGL2021 and CICIDS-2017 to analyze the impact of different modeling strategies.  
 
 Our results reveal that ensemble methods consistently outperform individual models, with Decision Trees and Random Forest achieving perfect classification (F1 = 1.0 on RoEduNet-SIMARGL2021, while blending and bagging methods excel on CICIDS-2017 (F1 > 0.996). Additionally, feature selection using Information Gain (IG) significantly reduced training time by up to 94% without sacrificing accuracy.  
 
